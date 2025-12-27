@@ -1,0 +1,6 @@
+Date,Time,Slot,Article_ID,Status
+2024-02-01,08:00,1,site01-0001,Scheduled
+2024-02-01,19:07,2,site01-0002,Scheduled
+2024-02-01,21:00,3,site01-0003,Scheduled
+2024-02-01,23:00,4,site01-0004,Scheduled
+2024-02-02,21:00,1,site01-0005,Scheduled
